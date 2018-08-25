@@ -1,0 +1,11 @@
+* Xcode Project Setup
+1) Create a GitHub project ArgusCoreVideoSiX for Swift with an initial README.md file.
+2) Clone the base project to the development system.
+3) Create a Cocoa Touch Framework, ArgusCoreVideo, as a sibling of the .git folder from step 2.
+4) Remove errors and run the tests (CMD-U) to verify the project is basically sane. Should have no errors.
+5) Remove all test code to prepare for start of TDD.
+6) Commit baseline code and notes, generate PR and merge to master.
+7) Start using TDD to implement the use cases using the initial high level design work as a living guide.
+
+* TDD
+** Generate simple tests ...
